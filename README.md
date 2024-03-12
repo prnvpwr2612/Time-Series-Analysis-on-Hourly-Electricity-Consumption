@@ -41,7 +41,4 @@ This project focuses on analyzing hourly electricity consumption data using time
 ## Contributors
 - [Pranav Pawar](https://github.com/prnvpwr2612)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ---
